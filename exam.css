@@ -1,0 +1,132 @@
+.mijozlar-fikrlari-bolimi {
+    background-color: #0A0B1D;
+    color: #FFFFFF;
+    padding: 2rem;
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    border-radius: 10px;
+  }
+  
+  .bolim-sarlavhasi {
+    font-size: 30px;
+    margin-bottom: 0.5rem;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-right: auto;
+    padding-left: 100px;
+
+  }
+  
+  .reyting {
+    font-size: small;
+    margin-bottom: 2rem;
+    color: #B0B0B0;
+    padding-top: 30px;
+    padding-right: 100px;
+
+  }
+  
+  .fikrlar-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 45px;
+  }
+  .headjon {
+    width: 30px;
+    height: 25.8px;
+    margin-left: auto;
+    padding-left: 85%;
+}
+  .fikr {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    max-width: 300px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+  }
+  
+  .fikr-sarlavhasi {
+    font-size: 1.2rem;
+    color: #1C1E2F;
+    margin-bottom: 0.5rem;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: normal;
+    margin-top: -8%;
+  }
+  
+  .fikr-matni {
+    font-size: 1rem;
+    color: #1C1E2F;
+    margin-bottom: 1rem;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .mijoz {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .mijoz-rasmi {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .mijoz-ismi {
+    font-weight: bold;
+    color: #1C1E2F;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-top: -5%;
+  }
+  
+  .mijoz-pozitsiyasi {
+    font-size: 0.9rem;
+    color: #1C1E2F;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-top: 8%;
+    margin-left: -45%;
+  }
+  
+  .navigatsiya {
+    margin-top: 1.5rem;
+    padding-right: 985px;
+  }
+  
+  .orqaga,
+  .oldinga {
+    background-color: white;
+    border: none;
+    color: #FFFFFF;
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  .orqaga:hover,
+  .oldinga:hover {
+    background-color: #2E3253;
+  }
+
+.sarlavha_container {
+    display: flex;
+
+
+    margin-top: 20px;
+}
